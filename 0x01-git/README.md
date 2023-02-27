@@ -1,1 +1,1 @@
-New 0x01-git directory
+Updated readme from github to perform pull git cmd
